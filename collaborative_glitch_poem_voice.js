@@ -71,7 +71,7 @@ function draw() {
 
   textSize(10);
   textAlign(LEFT);
-  text("Type three phrases that describe how you feel when you encounter a glitch.", width / 8, 120);
+  text("Type three phrases about glitches including 1) an example of when you encounter them 2) how they make you feel 3) a word to describe them.", width / 8, 120);
 
   drawPoemBox();
 }
