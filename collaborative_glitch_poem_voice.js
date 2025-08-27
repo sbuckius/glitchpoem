@@ -72,9 +72,9 @@ function draw() {
   textSize(10);
   textAlign(LEFT);
   text("Type three phrases about glitches including:", width / 8, 120);
-text("1) an example of when you encounter them 2) how they make you feel 3) a word to describe them.", width / 8, 123);
-  text("T2) how they make you feel", width / 8, 126);
-  text("3) a word to describe them.", width / 8, 130);
+text("1) an example of when you encounter them ", width / 8, 130);
+  text("2) how they make you feel", width / 8, 140);
+  text("3) a word to describe them.", width / 8, 150);
   drawPoemBox();
 }
 
